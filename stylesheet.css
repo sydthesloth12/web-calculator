@@ -1,0 +1,42 @@
+
+.intro{
+    font-family: 'Roboto', sans-serif, ;
+    text-align: center;
+    padding: 40px;
+    font-size: 25px;
+    color: rebeccapurple;
+   
+    
+    
+    
+}
+
+.inputBox{
+    font-family:'Roboto', sans-serif, ;
+    text-align: center; 
+    
+}
+
+.answer{
+    font-family: 'Roboto', sans-serif, ;
+    text-align: center;
+    padding: 25px;
+    font-size: 25px;
+    color: rebeccapurple;
+}
+
+.answer2{
+    font-family: 'Roboto', sans-serif, ;
+    text-align: center;
+    font-size: 18px;
+    padding: 5px;
+    color: rebeccapurple;
+}
+
+.clear {
+    text-align: center;
+}
+
+body {
+    background-color: lightslategray;
+}
